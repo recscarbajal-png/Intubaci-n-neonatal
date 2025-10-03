@@ -1,0 +1,5 @@
+{
+  "name": "Neonatal Intubation Guide",
+  "description": "An interactive web application serving as a practical guide for endotracheal intubation in neonatal resuscitation, based on NRP guidelines. It includes step-by-step instructions, equipment checklists, interactive calculators, and a practice quiz.",
+  "requestFramePermissions": []
+}
